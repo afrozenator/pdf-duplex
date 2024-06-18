@@ -7,7 +7,7 @@ another with even.
 Then I print only the odd pages first, and re-insert the pages to print the even
 sides on the same sheets of paper.
 
-The code uses (pypdf)[https://github.com/py-pdf/pypdf] in the simplest possible
+The code uses [pypdf](https://github.com/py-pdf/pypdf) in the simplest possible
 way.
 
 Enjoy!
